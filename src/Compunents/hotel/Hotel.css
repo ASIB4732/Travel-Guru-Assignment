@@ -1,0 +1,27 @@
+.BookingHotels{
+    color: black;
+    background-color: white;
+}
+.shop{
+    margin-left: 8%;
+}
+.hotelImg img{
+    width: 80%;
+    margin-bottom: 10px;
+}
+.hotelBox{
+    margin-top: 20px;
+
+    border-bottom: 3px solid lightblue;
+    width:60% ;
+    display:flex;
+}
+.lastLine{
+    display: flex;
+}
+.lastLine img{
+    height: 30px;
+}
+.color{
+    color: black;
+}

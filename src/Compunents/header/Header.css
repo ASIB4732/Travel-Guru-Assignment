@@ -1,0 +1,44 @@
+
+.logo{
+    width: 120px;
+
+}
+.headerDisplay{
+    border-bottom:  3px solid rgb(179, 0, 0);
+}
+
+.margin {
+margin-top: 20px;
+}
+.searchInput button{
+color: black;
+background: orange;
+border-radius: 5px;
+margin-left: 5px;
+}
+.searchInput button:hover{
+    border: 3px solid white;
+}
+.searchInput input{
+    border-radius: 5px;
+}
+.Links{
+    color: white;
+    margin-left: 20px;
+}
+.Links:hover{
+    background-color: lightgray;
+    color: red;
+    padding: 3px;
+    border-radius: 5px;
+}
+.loginButton{
+    background: orange;
+    width: 90px;
+    height: 35px;
+    color: black;
+    border-radius: 5px;
+}
+.loginButton:hover{
+    border: 3px solid white;
+}
